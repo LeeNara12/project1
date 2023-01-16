@@ -17,8 +17,12 @@ public class pro01 extends HttpServlet {
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		doGet(request, response);
+<<<<<<< HEAD
 		System.out.println("수정");
 		System.out.println("수정2");
+=======
+		System.out.println("서한수");
+>>>>>>> cc0fc424d0703441d6c45b68ddadf0a0c8372340
 	}
 
 }
