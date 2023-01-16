@@ -20,8 +20,13 @@ public class pro01 extends HttpServlet {
 
 		System.out.println("수정");
 		System.out.println("수정2");
+<<<<<<< HEAD
 		System.out.println("서한수");
 		System.out.println("커밋");
+=======
+
+		System.out.println("서한수");
+>>>>>>> 643345b23351f9e56f3d87850b7384642af767ab
 
 	}
 
