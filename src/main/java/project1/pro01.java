@@ -31,6 +31,7 @@ public class pro01 extends HttpServlet {
 
 
 		System.out.println("서한수");
+		System.out.println("test");
 
 
 
